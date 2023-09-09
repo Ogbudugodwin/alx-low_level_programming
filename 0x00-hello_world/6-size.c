@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - this describes the main function of the code
  * Return:always 0
