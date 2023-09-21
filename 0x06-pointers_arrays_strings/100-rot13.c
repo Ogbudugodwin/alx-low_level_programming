@@ -3,7 +3,7 @@
 /**
  * rot13 - main function
  * @s: String poiner
- * Return: string function
+ * Return: *s
  */
 char *rot13(char *s)
 {
